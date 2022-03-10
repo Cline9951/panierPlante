@@ -2,9 +2,7 @@
 
 - https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137137-revenez-sur-vos-acquis
 
-## Ajoutez des fonctionnalités
-
-Vous avez peut-être envie de pousser notre site La maison jungle plus loin ? Voilà quelques idées de features qui vous permettraient de vous exercer :
+## Actions à venir ; ajoutez des fonctionnalités
 
 - Permettre de supprimer des articles dans le panier.
 
